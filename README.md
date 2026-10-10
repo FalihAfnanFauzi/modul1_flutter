@@ -6,7 +6,7 @@ Repositori ini memuat kode program untuk praktikum **Pemrograman Perangkat Berge
 - **Nama**: Falih Afnan Fauzi
 - **NIM**: 707012400017
 - **Kelas**: 48-03
-- **Program Studi**: D3 Rekayasa Perangkat Lunak Aplikasi
+- **Program Studi**: D4 Sistem Informasi Kota Cerdas
 - **Fakultas**: Fakultas Ilmu Terapan, Universitas Telkom
 
 ---
